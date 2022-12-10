@@ -1,8 +1,8 @@
 {
-  "name": "react-homework-template",
+  "name": "practic-2-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://goitacademy.github.io/react-homework-template/",
+  "homepage": "https://AllaYukhym.github.io/practic-2-react/",
   "dependencies": {
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",
